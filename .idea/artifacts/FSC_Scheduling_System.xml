@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FSC Scheduling System">
+    <output-path>$PROJECT_DIR$/out/artifacts/FSC_Scheduling_System</output-path>
+    <root id="archive" name="FSC Scheduling System.jar">
+      <element id="module-output" name="FSC Scheduling System" />
+    </root>
+  </artifact>
+</component>
